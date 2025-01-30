@@ -11,7 +11,7 @@
 #### Проект 1: Приложение с квизами о фильмах
 
 **Название:** MovieQuiz  
-**Ссылка на GitHub:** [https://github.com/id-kuznetsov/MovieQuiz](https://github.com/id-kuznetsov/MovieQuiz)  
+[![MovieQuiz](https://img.shields.io/badge/MovieQuiz-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/MovieQuiz)
 **Описание:** Это приложение позволяет пользователям проходить квизы о фильмах из топ-250 рейтинга IMDb и самых популярных фильмов.  
 **Стэк технологий:** InterfaceBuilder, User Defaults, MVC, MVP, URLSession, URLRequest, GCD, Git, Storyboard, HTTP, REST, UI tests и UNIT tests  
 
