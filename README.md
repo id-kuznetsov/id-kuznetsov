@@ -12,6 +12,8 @@
 
 **Название:** MovieQuiz  
 [![MovieQuiz](https://img.shields.io/badge/MovieQuiz-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/MovieQuiz)
+
+<a href="https://github.com/id-kuznetsov/MovieQuiz" target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #6cc644; color: white; text-decoration: none; border-radius: 5px;">Открыть MovieQuiz</a>
 **Описание:** Это приложение позволяет пользователям проходить квизы о фильмах из топ-250 рейтинга IMDb и самых популярных фильмов.  
 **Стэк технологий:** InterfaceBuilder, User Defaults, MVC, MVP, URLSession, URLRequest, GCD, Git, Storyboard, HTTP, REST, UI tests и UNIT tests  
 
