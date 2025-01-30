@@ -6,6 +6,29 @@
 [<img src='https://github.com/id-kuznetsov/id-kuznetsov/blob/main/logos/Gmail_icon_(2020).svg' width='35' height='40'>](mailto:ilua.kuznetsov@gmail.com)&nbsp;&nbsp;
 
 ## iOS Developer 
+### Проекты
 
-### Skills: 
-**UIKit / MVC / GCD / REST / Unit Testing / UI Testing**
+#### Проект 1: Приложение с квизами о фильмах
+
+**Название:** MovieQuiz  
+**Ссылка на GitHub:** [https://github.com/id-kuznetsov/MovieQuiz](https://github.com/id-kuznetsov/MovieQuiz)  
+**Описание:** Это приложение позволяет пользователям проходить квизы о фильмах из топ-250 рейтинга IMDb и самых популярных фильмов.  
+**Стэк технологий:** InterfaceBuilder, User Defaults, MVC, MVP, URLSession, URLRequest, GCD, Git, Storyboard, HTTP, REST, UI tests и UNIT tests  
+
+---
+
+#### Проект 2: Многостраничное приложение для просмотра изображений
+
+**Название:** ImageFeed  
+**Ссылка на GitHub:** [https://github.com/id-kuznetsov/ImageFeed](https://github.com/id-kuznetsov/ImageFeed)  
+**Описание:** Это многостраничное приложение предназначено для просмотра изображений через API Unsplash.  
+**Стэк технологий:** InterfaceBuilder, User Defaults, UIKit, URLSession, URLRequest, GCD, Git, Storyboard, HTTP, REST, UI tests и UNIT tests  
+
+---
+
+#### Проект 3: Приложение для отслеживания привычек
+
+**Название:** Tracker  
+**Ссылка на GitHub:** [https://github.com/id-kuznetsov/Tracker](https://github.com/id-kuznetsov/Tracker)  
+**Описание:** Это приложение помогает пользователям формировать и отслеживать полезные привычки. Пользователи могут мониторить свои привычки по дням недели и просматривать прогресс по времени.  
+**Стэк технологий:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests  
