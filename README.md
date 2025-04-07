@@ -7,9 +7,25 @@
 
 ## iOS Developer 
 ### Проекты
+#### NFT маректплейс
+**Название:** FakeNFT  
+[![Tracker](https://img.shields.io/badge/Tracker-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/FakeNFT)  
 
-#### Проект 1: Приложение с квизами о фильмах
+**Описание:** Это приложение помогает пользователям просматривать и покупать NFT (Non-Fungible Token). Функционал покупки иммитируется с помощью мокового сервера.  
+**Стэк технологий:** Swift, UIKit, MVVM, Combine, Localization, Git, SwiftGen  
 
+---
+
+#### Приложение для отслеживания привычек
+**Название:** Tracker  
+[![Tracker](https://img.shields.io/badge/Tracker-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/Tracker)  
+
+**Описание:** Это приложение помогает пользователям формировать и отслеживать полезные привычки. Пользователи могут мониторить свои привычки по дням недели и просматривать прогресс по времени.  
+**Стэк технологий:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests  
+
+---
+
+#### Приложение с квизами о фильмах
 **Название:** MovieQuiz  
 [![MovieQuiz](https://img.shields.io/badge/MovieQuiz-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/MovieQuiz)
 
@@ -18,8 +34,7 @@
 
 ---
 
-#### Проект 2: Многостраничное приложение для просмотра изображений
-
+#### Многостраничное приложение для просмотра изображений
 **Название:** ImageFeed  
 [![ImageFeed](https://img.shields.io/badge/ImageFeed-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/ImageFeed)  
 
@@ -28,10 +43,4 @@
 
 ---
 
-#### Проект 3: Приложение для отслеживания привычек
 
-**Название:** Tracker  
-[![Tracker](https://img.shields.io/badge/Tracker-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/Tracker)  
-
-**Описание:** Это приложение помогает пользователям формировать и отслеживать полезные привычки. Пользователи могут мониторить свои привычки по дням недели и просматривать прогресс по времени.  
-**Стэк технологий:** UIKit, MVVM, CoreData, Localization, UIPageViewController, AppMetrica, Cocoapods, Snapshot Tests  
