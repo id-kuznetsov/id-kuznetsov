@@ -6,6 +6,8 @@
 [<img src='https://github.com/id-kuznetsov/id-kuznetsov/blob/main/logos/Gmail_icon_(2020).svg' width='35' height='40'>](mailto:ilua.kuznetsov@gmail.com)&nbsp;&nbsp;
 
 ## iOS Developer 
+### Skills
+Swift · UIKit · SwiftUI ·  Core Data · Combine · SnapKit · REST API · Keychain Wrapper · AppMetrica · Kingfisher · MVC · MVP · MVVM · Unit Tests · UI Tests · Snapshot Tests · Git · Fork · SPM · CocoaPods · Xcode Instruments · SwiftGen · OAuth 2.0 · GCD · Localization
 ### Проекты
 #### NFT маректплейс
 **Название:** FakeNFT  
