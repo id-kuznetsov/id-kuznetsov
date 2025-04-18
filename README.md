@@ -27,6 +27,15 @@ Swift · UIKit · SwiftUI ·  Core Data · Combine · SnapKit · REST API · Key
 
 ---
 
+#### Многостраничное приложение для просмотра изображений
+**Название:** ImageFeed  
+[![ImageFeed](https://img.shields.io/badge/ImageFeed-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/ImageFeed)  
+
+**Описание:** Это многостраничное приложение предназначено для просмотра изображений через API Unsplash.  
+**Стэк технологий:** InterfaceBuilder, User Defaults, UIKit, URLSession, URLRequest, GCD, Git, Storyboard, HTTP, REST, UI tests и UNIT tests  
+
+---
+
 #### Приложение с квизами о фильмах
 **Название:** MovieQuiz  
 [![MovieQuiz](https://img.shields.io/badge/MovieQuiz-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/MovieQuiz)
@@ -36,13 +45,5 @@ Swift · UIKit · SwiftUI ·  Core Data · Combine · SnapKit · REST API · Key
 
 ---
 
-#### Многостраничное приложение для просмотра изображений
-**Название:** ImageFeed  
-[![ImageFeed](https://img.shields.io/badge/ImageFeed-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/ImageFeed)  
-
-**Описание:** Это многостраничное приложение предназначено для просмотра изображений через API Unsplash.  
-**Стэк технологий:** InterfaceBuilder, User Defaults, UIKit, URLSession, URLRequest, GCD, Git, Storyboard, HTTP, REST, UI tests и UNIT tests  
-
----
 
 
