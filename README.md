@@ -11,7 +11,7 @@ Swift · UIKit · SwiftUI ·  Core Data · Combine · SnapKit · REST API · Key
 ### Проекты
 #### NFT маректплейс
 **Название:** FakeNFT  
-[![Tracker](https://img.shields.io/badge/Tracker-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/FakeNFT)  
+[![FakeNFT](https://img.shields.io/badge/Tracker-View%20on%20GitHub-blue)](https://github.com/id-kuznetsov/FakeNFT)  
 
 **Описание:** Это приложение помогает пользователям просматривать и покупать NFT (Non-Fungible Token). Функционал покупки иммитируется с помощью мокового сервера.  
 **Стэк технологий:** Swift, UIKit, MVVM, Combine, Localization, Git, SwiftGen  
